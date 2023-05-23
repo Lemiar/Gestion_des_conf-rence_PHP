@@ -9,12 +9,17 @@ Ce projet a été développé en utilisant les technologies suivantes :
 
 
 Front-end : HTML, CSS
+
 Back-end : Php
+
 Base de données : My sql
+
 voilà la conception MCD avec Merise
+
 
 ![image](https://github.com/Lemiar/Gestion_des_conf-rence_PHP/assets/112787562/b4d1e720-e5d8-4920-8705-bc09641223ab)
 MLD:
+
 ![image](https://github.com/Lemiar/Gestion_des_conf-rence_PHP/assets/112787562/47e86dc7-b873-4557-9a53-6bd6acbefcb4)
 quelques démonstrations du produit final :
 ![image](https://github.com/Lemiar/Gestion_des_conf-rence_PHP/assets/112787562/aace33b7-a664-40bd-b05f-477cc47fbdef)
